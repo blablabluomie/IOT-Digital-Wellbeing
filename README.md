@@ -155,4 +155,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Team Members:
 
-| [Amogh Warkhandkar](https://github.com/amogh-w) | [Omkar Bhambure](https://github.com/blablabluomie) | [Shashwat Pandya](https://github.com/NupoorD) |
+| [Amogh Warkhandkar](https://github.com/amogh-w) | [Omkar Bhambure](https://github.com/blablabluomie) | [Nupoor Dode](https://github.com/NupoorD) |
